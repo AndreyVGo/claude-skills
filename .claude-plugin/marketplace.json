@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skills",
+  "description": "Скиллы для Claude Code: проверяемые результаты вместо правдоподобных выдумок",
+  "owner": {
+    "name": "AndreyVGo",
+    "url": "https://github.com/AndreyVGo"
+  },
+  "plugins": [
+    {
+      "name": "naming",
+      "description": "Подбор доменных имён и словесных товарных знаков под запуск на нескольких рынках: генерация фантазийных и произвольных имён, проверка доменов, охраноспособность знака, конфликты с чужими правами, поисковая уникальность, бюджет защиты",
+      "source": "./plugins/naming",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["naming", "domains", "trademark", "branding", "legal"]
+    }
+  ]
+}

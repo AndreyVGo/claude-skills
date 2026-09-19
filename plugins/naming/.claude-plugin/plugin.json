@@ -1,0 +1,12 @@
+{
+  "name": "naming",
+  "description": "Подбор доменов и словесных товарных знаков: бриф, генерация имён, воронка проверок, чек-листы по закрытым базам, бюджет защиты",
+  "version": "1.0.0",
+  "author": {
+    "name": "AndreyVGo",
+    "url": "https://github.com/AndreyVGo"
+  },
+  "homepage": "https://github.com/AndreyVGo/claude-skills",
+  "license": "MIT",
+  "keywords": ["naming", "domains", "trademark", "branding"]
+}
